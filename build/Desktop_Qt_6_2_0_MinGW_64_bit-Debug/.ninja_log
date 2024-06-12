@@ -1,0 +1,11 @@
+# ninja log v5
+5	896	7398839400707926	WeatherWidgetUI_autogen/timestamp	94edf9841e94cbc6
+5	896	7398839400707926	WeatherWidgetUI_autogen/mocs_compilation.cpp	94edf9841e94cbc6
+5	896	7398839400707926	D:/QTQML Files/WeatherWidgetUI/build/Desktop_Qt_6_2_0_MinGW_64_bit-Debug/WeatherWidgetUI_autogen/timestamp	94edf9841e94cbc6
+5	896	7398839400707926	D:/QTQML Files/WeatherWidgetUI/build/Desktop_Qt_6_2_0_MinGW_64_bit-Debug/WeatherWidgetUI_autogen/mocs_compilation.cpp	94edf9841e94cbc6
+898	1200	7398839406452585	WeatherWidgetUI_autogen/EWIEGA46WW/qrc_qml.cpp	c084ecca17445f88
+898	1200	7398839406452585	D:/QTQML Files/WeatherWidgetUI/build/Desktop_Qt_6_2_0_MinGW_64_bit-Debug/WeatherWidgetUI_autogen/EWIEGA46WW/qrc_qml.cpp	c084ecca17445f88
+1203	2220	7398839415837500	CMakeFiles/WeatherWidgetUI.dir/WeatherWidgetUI_autogen/mocs_compilation.cpp.obj	e47212612a0d2a4e
+1212	2479	7398839419357664	CMakeFiles/WeatherWidgetUI.dir/WeatherWidgetUI_autogen/EWIEGA46WW/qrc_qml.cpp.obj	f06a0f1c0707ae52
+1221	8700	7398839481547146	CMakeFiles/WeatherWidgetUI.dir/main.cpp.obj	6955e68d04d159a2
+8711	9286	7398839487336962	WeatherWidgetUI.exe	db3e6cdf5525518d
